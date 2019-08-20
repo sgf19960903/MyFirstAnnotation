@@ -1,0 +1,1 @@
+include ':app', ':idinject_annotation', ':idinject_compiler', ':idinject_annotation', ':idinject_annotationapi', ':idinject_annotation', ':idinject_compiler'
