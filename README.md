@@ -1,1 +1,2 @@
-# MyFirstAnnotation
+#一个简单的编译时注解，为了给View绑定Id
+#主要是给自己好好记录并记忆
